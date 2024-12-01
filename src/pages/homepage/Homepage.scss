@@ -1,0 +1,20 @@
+.title-wrapper {
+    position: absolute;
+    inset: 0;
+    height: 200vh;
+}
+
+.title {
+    position: sticky;
+    inset: 0;
+    text-align: center;
+    color: white;
+    top: 150px;
+    font-size: 7rem;
+    margin: 0;
+    height: min-content;
+}
+
+.homepage-body {
+    margin: 0;
+}
